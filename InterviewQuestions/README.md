@@ -1,13 +1,4 @@
-# Bonus Video for Azure DevOps Zero to Hero Series - Scenario-based Interview Questions and Solutions
-
-## Check out the video below for Day17 👇
-
-[![Bonus Video for Azure DevOps Zero to Hero Series - Scenario-based Interview Questions and Solutions](https://img.youtube.com/vi/u5uSDMM9ydc/sddefault.jpg)](https://youtu.be/u5uSDMM9ydc)
-
-
-## Explain a typical structure of an Azure DevOps Pipeline
-
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/ca03a698-fd46-4cc3-90ee-a9db5d945d0d)
+Explain a typical structure of an Azure DevOps Pipeline
 
 - A trigger tells a Pipeline to run. It could be CI or Scheduled, manual(if not specified), or after another build finishes.
 - A pipeline is made up of one or more stages. A pipeline can deploy to one or more environments.
